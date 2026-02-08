@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi 👋 I'm Ravi
 
-<!--
-**PreRavi-Shankar/PreRavi-Shankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (AI/ML) student  
+💻 Interested in Software Development & Machine Learning  
 
-Here are some ideas to get you started:
+🚀 Skills
+- Java, Python, C++
+- Data Structures & Algorithms
+- Basics of Machine Learning and Computer Vision
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Currently Working On
+- DSA in Java
+- Building ML mini-projects
+- Internship preparation
+
+📂 Featured Work
+- DSA-Java (Arrays, Strings, Linked List)
+- Student Management System (Java)
+- ML Project (Coming soon)
+
+📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/ravi-shankar-kumar-64087b303/
